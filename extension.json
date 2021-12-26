@@ -1,0 +1,13 @@
+{
+  "name": "RF Decoder",
+  "apiVersion": "1.0.0",
+  "author": "Martin Andersen",
+  "version": "0.0.1",
+  "description": "Decode RF signals for most common Chinese encoders",
+  "extensions": {
+    "RF Decoder": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
